@@ -1,5 +1,4 @@
-# BirdDetection
-Detecting Migrating Birds at Night (CVPR 2016)
+# Detecting Migrating Birds at Night (CVPR 2016)
 
 This is the research code for the paper:
 
